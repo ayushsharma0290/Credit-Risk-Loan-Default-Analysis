@@ -1,0 +1,13 @@
+# Ignore all CSVs except the ones in data/
+*.csv
+!data/*.csv
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS / temp files
+.DS_Store
+Thumbs.db
+*.tmp

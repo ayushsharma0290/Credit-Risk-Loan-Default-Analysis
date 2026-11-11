@@ -1,0 +1,4 @@
+ModelBand,Action,Borrowers,Pct_Borrowers,Default_Rate,Pct_of_All_Defaults,Lift,Exposure
+Standard,Approve,16461,64.464,0.053,29.578,0.459,1930243267.0
+Watchlist,Manual review,6858,26.857,0.177,41.012,1.527,960954321.0
+High Risk,Reject,2216,8.678,0.394,29.41,3.389,379067052.0
